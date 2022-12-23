@@ -1,7 +1,7 @@
 # MMartinezPos.github.io
-My Personal Project Portfolio
 
-# Graph Brain Project, Virginia Commonwealth University – Research Assistant 			                     
+
+## Graph Brain Project, Virginia Commonwealth University – Research Assistant 			                     
 *	Responsible for working in Python and Sage to add and test dozens of graph functions for 
   computational stability and to support existing mathematical research goals.
 *	Collaborating with a team of 5+ researchers to maintain and update the project’s GitHub codebase.
@@ -10,7 +10,7 @@ My Personal Project Portfolio
 *	Developed solutions that were well-received by the team and helped to prevent similar issues from 
   occurring in the future
   
-# Society of Hispanic Professional Engineers (SHPE) – Recruitment Chair                      			      
+## Society of Hispanic Professional Engineers (SHPE) – Recruitment Chair                      			      
 *	Manage chapter recruitment cycle and help maintain relationships with local high schools to 
   provide more information on SHPE and engineering. 
 *	Prepared 35 students for the SHPE national conference with resume workshops, elevator pitches, 
@@ -18,7 +18,7 @@ My Personal Project Portfolio
 *	Mentor chapter students on professional development, career options and opportunities, academic 
 *	success and community engagement.
 
-# Project 1: Recipe Recommendation System – (Python)			          					   	                             
+## Project 1: Recipe Recommendation System – (Python)			          					   	                             
 *	Applied named entity recognition to automatically extract ingredients from the recipe data, 
   improving the efficiency of the system.
 *	Used unsupervised learning algorithms to cluster similar recipes and make accurate recommendations 
