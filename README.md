@@ -22,7 +22,7 @@ I'm a computer science student with interests in software engineering and machin
 *	Mentor chapter students on professional development, career options and opportunities, academic 
 *	success and community engagement.
 
-## My Projects
+## My Engineering Projects
  Recipe Recommendation System – (Python)			          					   	                             
 *	Applied named entity recognition to automatically extract ingredients from the recipe data, 
   improving the efficiency of the system.
