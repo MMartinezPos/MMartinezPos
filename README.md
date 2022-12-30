@@ -1,6 +1,3 @@
-# MMartinezPos.github.io
-
-
 ## Graph Brain Project, Virginia Commonwealth University – Research Assistant 			                     
 *	Responsible for working in Python and Sage to add and test dozens of graph functions for 
   computational stability and to support existing mathematical research goals.
