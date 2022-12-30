@@ -23,7 +23,7 @@ I'm a computer science student with interests in software engineering and machin
 *	success and community engagement.
 
 ## My Projects
- Project 1: Recipe Recommendation System – (Python)			          					   	                             
+ Recipe Recommendation System – (Python)			          					   	                             
 *	Applied named entity recognition to automatically extract ingredients from the recipe data, 
   improving the efficiency of the system.
 *	Used unsupervised learning algorithms to cluster similar recipes and make accurate recommendations 
@@ -34,11 +34,7 @@ I'm a computer science student with interests in software engineering and machin
   satisfying recipes. 
 *	The interface received positive feedback from 95% of users and helped increase 
   engagement with the system by 20%.
-
-
-
-
-
-
-
-
+  
+  
+  
+  
