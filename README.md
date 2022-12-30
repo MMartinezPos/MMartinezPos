@@ -1,4 +1,4 @@
-# 🏄‍♂️ Michael Martinez-Posadas
+# 👨‍💻 Michael Martinez-Posadas
 
 **`Digital Craftsman (Developer / Software Engineering / Machine Learning)`**
 
