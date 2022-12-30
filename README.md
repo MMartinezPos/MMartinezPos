@@ -10,7 +10,6 @@ I'm a computer science student with interests in software engineering and machin
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,7 +26,7 @@ I'm a computer science student with interests in software engineering and machin
 <br />
 
 ## My Engineering Experiences
- Graph Brain Project, Virginia Commonwealth University – Research Assistant 			                     
+ **Graph Brain Project, Virginia Commonwealth University – Research Assistant** 			                     
 *	Responsible for working in Python and Sage to add and test dozens of graph functions for 
   computational stability and to support existing mathematical research goals.
 *	Collaborated with a team of 5+ researchers to prioritize and address critical issues that were affecting the stability or 
@@ -35,7 +34,7 @@ I'm a computer science student with interests in software engineering and machin
 *	Developed solutions that were well-received by the team and helped to prevent similar issues from 
   occurring in the future.
   
- Society of Hispanic Professional Engineers (SHPE) – Recruitment Chair                      			      
+ **Society of Hispanic Professional Engineers (SHPE) – Recruitment Chair**                      			      
 *	Manage chapter recruitment cycle and help maintain relationships with local high schools to 
   provide more information on SHPE and engineering. 
 *	Prepared 35 students for the SHPE national conference with resume workshops, elevator pitches, 
@@ -44,7 +43,7 @@ I'm a computer science student with interests in software engineering and machin
   success and community engagement.
 
 ## My Engineering Projects
- Recipe Recommendation System – (Python)			          					   	                             
+ **Recipe Recommendation System – (Python)**			          					   	                             
 *	Applied named entity recognition to automatically extract ingredients from the recipe data, 
   improving the efficiency of the system.
 *	Used unsupervised learning algorithms to cluster similar recipes and make accurate recommendations 
