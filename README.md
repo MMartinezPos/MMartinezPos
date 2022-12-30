@@ -11,7 +11,7 @@ I'm a computer science student with interests in software engineering and machin
 *	Collaborated with a team of 5+ researchers to prioritize and address critical issues that were affecting the stability or 
   performance of the code.
 *	Developed solutions that were well-received by the team and helped to prevent similar issues from 
-  occurring in the future
+  occurring in the future.
   
  Society of Hispanic Professional Engineers (SHPE) – Recruitment Chair                      			      
 *	Manage chapter recruitment cycle and help maintain relationships with local high schools to 
