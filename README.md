@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer / Software Engineering / Machine Learning)`**
 
-I'm a computer science student with interests in software engineering and machine learning. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am excited to continue exploring the intersection of technology and problem-solving in the field of machine learning and software engineering, and to use my unique background and skills to make a meaningful impact.
+I'm a computer science student excited to continue exploring the intersection of technology and problem-solving in the field of machine learning and software engineering, and to use my unique background and skills to make a meaningful impact.
 
 ### 🧰 Languages and Tools
 
